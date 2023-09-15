@@ -1,0 +1,504 @@
+[16-Aug-2023 13:29:14 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 13:29:14 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 13:29:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 13:29:41 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 13:29:41 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 13:29:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 13:30:01 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 13:30:01 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 13:30:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 13:31:16 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 13:31:16 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 13:31:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 13:31:50 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 13:31:50 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 13:31:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 13:31:53 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 13:31:53 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 13:31:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 13:32:10 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 13:32:10 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 13:32:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 15:48:25 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 15:48:25 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 15:48:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 15:54:07 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 15:54:07 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 15:54:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 15:54:24 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 15:54:24 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 15:54:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 15:55:39 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 15:55:39 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 15:55:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 15:55:58 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 15:55:58 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 15:55:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 15:56:08 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 15:56:08 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 15:56:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:03:54 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.29. in /home/howsquar/howtests.com/vendor/composer/platform_check.php on line 24
+[16-Aug-2023 16:04:27 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:04:27 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:04:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:04:51 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:04:51 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:04:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:05:13 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:05:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:05:33 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:05:33 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:05:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:08:42 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:08:42 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:08:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:08:59 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:08:59 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:08:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:09:06 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:09:06 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:09:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:09:46 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:09:46 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:09:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:09:50 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:09:50 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:09:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:15:29 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:15:29 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:15:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:15:47 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:15:47 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:15:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:22:36 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:22:36 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:22:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:37:39 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:37:39 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:37:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:37:41 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:37:41 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:37:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:37:42 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:37:42 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:37:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:37:43 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:37:43 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:37:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:38:29 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:38:29 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:38:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:40:10 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:40:10 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:40:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:40:15 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:40:15 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:40:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:40:24 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:40:24 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:40:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:42:55 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:42:55 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:42:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:44:25 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:44:25 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:44:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:44:27 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:44:27 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:44:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:44:28 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:44:28 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:44:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 20:30:59 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:30:59 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:30:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(38): composerRequireb76de8e08cf5ad70b01f94e0bc041e7e('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:31:00 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:31:00 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:31:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(38): composerRequireb76de8e08cf5ad70b01f94e0bc041e7e('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:31:01 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:31:01 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:31:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(38): composerRequireb76de8e08cf5ad70b01f94e0bc041e7e('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:31:02 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:31:02 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:31:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(38): composerRequireb76de8e08cf5ad70b01f94e0bc041e7e('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:38:16 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:38:16 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:38:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(38): composerRequireb76de8e08cf5ad70b01f94e0bc041e7e('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:38:20 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:38:20 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:38:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(38): composerRequireb76de8e08cf5ad70b01f94e0bc041e7e('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:59:20 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:59:20 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:59:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(38): composerRequireb76de8e08cf5ad70b01f94e0bc041e7e('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:59:22 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:59:22 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:59:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(38): composerRequireb76de8e08cf5ad70b01f94e0bc041e7e('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:59:22 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:59:22 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:59:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(38): composerRequireb76de8e08cf5ad70b01f94e0bc041e7e('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:59:23 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:59:23 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:59:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(38): composerRequireb76de8e08cf5ad70b01f94e0bc041e7e('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:59:56 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:59:56 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:59:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(38): composerRequireb76de8e08cf5ad70b01f94e0bc041e7e('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:59:58 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:59:58 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 20:59:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(38): composerRequireb76de8e08cf5ad70b01f94e0bc041e7e('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 21:11:09 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 21:11:09 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 21:11:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(38): composerRequireb76de8e08cf5ad70b01f94e0bc041e7e('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 21:11:11 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 21:11:11 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 21:11:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(38): composerRequireb76de8e08cf5ad70b01f94e0bc041e7e('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 21:11:12 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 21:11:12 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 21:11:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(38): composerRequireb76de8e08cf5ad70b01f94e0bc041e7e('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 21:11:13 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 21:11:13 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 21:11:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(38): composerRequireb76de8e08cf5ad70b01f94e0bc041e7e('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 21:11:13 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 21:11:13 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 21:11:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(38): composerRequireb76de8e08cf5ad70b01f94e0bc041e7e('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 21:11:14 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 21:11:14 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 21:11:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(38): composerRequireb76de8e08cf5ad70b01f94e0bc041e7e('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 21:11:14 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 21:11:14 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55
+[16-Aug-2023 21:11:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:55
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(38): composerRequireb76de8e08cf5ad70b01f94e0bc041e7e('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/public/index.php(34): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 55

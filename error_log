@@ -1,0 +1,40 @@
+[16-Aug-2023 16:21:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Aug-2023 16:21:37 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:21:37 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:21:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/artisan(18): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:21:37 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Aug-2023 16:21:37 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:21:37 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:21:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/artisan(18): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:21:39 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Aug-2023 16:22:06 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Aug-2023 16:22:06 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:22:06 UTC] PHP Warning:  require(/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php): Failed to open stream: No such file or directory in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 16:22:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/howsquar/howtests.com/vendor/composer/../../App/Helpers/pdfGenerater.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/howsquar/howtests.com/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/howsquar/howtests.com/vendor/composer/autoload_real.php(45): {closure}('eb949d700544a21...', '/home/howsquar/...')
+#1 /home/howsquar/howtests.com/vendor/autoload.php(25): ComposerAutoloaderInitb76de8e08cf5ad70b01f94e0bc041e7e::getLoader()
+#2 /home/howsquar/howtests.com/artisan(18): require('/home/howsquar/...')
+#3 {main}
+  thrown in /home/howsquar/howtests.com/vendor/composer/autoload_real.php on line 41
+[16-Aug-2023 20:19:03 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Aug-2023 20:32:08 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Aug-2023 21:11:48 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Aug-2023 21:11:51 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Aug-2023 21:12:12 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Aug-2023 21:13:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Aug-2023 21:13:29 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Aug-2023 21:13:43 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
+[16-Aug-2023 21:14:11 UTC] PHP Warning:  Module "redis" is already loaded in Unknown on line 0
